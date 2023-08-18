@@ -15,3 +15,12 @@
     -Clone the git repository.
 
     -Run npm run android.
+    
+## THE PLATFORM HAS THREE RADIO STREAM WHICH IS:
+
+     -Student Stream
+
+     -Sports Stream
+
+    -Student Union Stream
+
