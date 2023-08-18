@@ -24,3 +24,23 @@
 
     -Student Union Stream
 
+## Note all streams are being fetched from an hls stream url
+
+
+##SCHEDULE
+
+     For the schedule screen , an API is being fetched to display the  schedule of each show.
+
+##SHOW SCREEN
+
+     Webview was used for the shows screen to display the shows.
+
+##TECHNOLOGY USED 
+
+     React Native Cli, Rcat native Trackplayer, React Native Webview.
+
+
+
+
+
+
